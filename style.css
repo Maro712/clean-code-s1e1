@@ -40,7 +40,7 @@
   padding: 0px;
 }
 .list__title {
-  list-style:none;
+  list-style: none;
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -50,7 +50,7 @@
   text-transform: uppercase;
 }
 .button{
-  outline:none;
+  outline: none;
   background: none;
   border: 0px;
   color: #888;
@@ -105,7 +105,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  list-style:none;
+  list-style: none;
   vertical-align: middle;
 }
 
@@ -138,7 +138,7 @@
 
 /* Edit Task */
 .text-input {
-  display:none
+  display: none
 }
 
 .edit-mode-text-input {
@@ -147,5 +147,5 @@
 }
 
 .edit-label {
-  display:none;
+  display: none;
 }
